@@ -418,7 +418,7 @@ body {
   position: absolute;
   left: 50%;
   width: 0;
-  height: none;
+  height: 0;
 }
 .header-bottom .header-bottom-menu__link:hover:before {
   left: 0;
@@ -1258,7 +1258,7 @@ body {
 }
 @media (max-width: 479.98px) {
   .about__item {
-    padding: 0s;
+    padding: 0;
   }
 }
 .about__text {
